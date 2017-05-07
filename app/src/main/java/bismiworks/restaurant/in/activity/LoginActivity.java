@@ -7,6 +7,8 @@ import bismiworks.restaurant.in.R;
 
 public class LoginActivity extends AppCompatActivity {
 
+    String temp = "";
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
